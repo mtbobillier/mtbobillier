@@ -1,0 +1,39 @@
+    1  ggg
+    2  1+2
+    3  =1+2
+    4  cd Progra/
+    5  ls
+    6  git clone https://github.com/mtbobillier/mtbobillier
+    7  /Desktop/Progra
+    8  cd Desktop/Progra/mtbobillier
+    9  ls
+   10  cd mtbobillier
+   11  ls
+   12  add *
+   13  git add *
+   14  git pull
+   15  ls
+   16  git add L0.txt
+   17  git push
+   18  git commit -m "texto lab 0"
+   19  git push
+   20  git config --global user.email "mtbobillier@uc.cl"
+   21  git push
+   22  git pull
+   23  ls
+   24  git add L0.txt
+   25  git push
+   26  git add L0.txt
+   27  git commit -m "lab 0"
+   28  git push
+   29  gil pull
+   30  git pull
+   31  doskey/History
+   32  History
+   33  doskey
+   34  History
+   35  doskey/History
+   36  doskey/history
+   37  dokey
+   38  doskey
+   39  history
